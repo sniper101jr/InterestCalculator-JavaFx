@@ -1,0 +1,9 @@
+y
+.root{
+    -fx-base: rgb(202,125,249);
+    -fx-background: rgb(69,74,222);
+}
+.button1{
+    -fx-font: 18 Monospace; 
+    -fx-base: #b6e7c9;    
+}
